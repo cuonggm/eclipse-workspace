@@ -1,0 +1,1 @@
+Việc có cùng cấu hình, nhưng lại có điểm benchmark thấp hơn có thể do màn hình của Galaxy S5 phiên bản SM-G900R4 có độ phân giải cao hơn Galaxy Note 3, nên GPU phải chịu tải nhiều hơn. 

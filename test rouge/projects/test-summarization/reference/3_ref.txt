@@ -1,0 +1,1 @@
+(XHTT) VNPT TP.HCM vừa cho ra phần mềm ứng dụng VNPT Dr.Chặn, có chức năng chặn các tin nhắn rác, cuộc gọi không mong muốn trên điện thoại di động sử dụng hệ điều hành Android phiên bản 2.1 trở lên
