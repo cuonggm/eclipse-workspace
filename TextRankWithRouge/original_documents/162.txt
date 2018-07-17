@@ -1,0 +1,15 @@
+Không để người dùng phải chờ đợi lâu, Apple đã chính thức đưa ra bản nâng cấp 7.1 dành cho hệ điều hành iOS. Không chỉ là những cải thiện về hiệu năng sử dụng, bản cập nhật này cũng đem tới nhiều tính năng hoàn toàn mới cho nền tảng di động của Apple.
+Một số tính năng mới trên iOS 7.1 :
+- Chính thức hỗ trợ CarPlay bao gồm các ứng dụng Gọi điện, Nghe nhạc, Bản đồ, Tin nhắn và các tiện ích âm nhạc từ hãng thứ ba, điều khiển qua giọng nói với Siri và màn hình cảm ứng trên xe hơi.
+- Siri thông minh và tự nhiên hơn với các gói ngôn ngữ được hoàn thiện gồm Trung Quốc, Tiếng Anh (Anh), Tiếng Anh (Úc) và Nhật Bản.
+- iTunes Radio: Bổ sung khung tìm kiếm, tích hợp nút mua album ngay trong giao diện chơi nhạc, người dùng iTunes Match sẽ không gặp quảng cáo.
+- Lịch: Tùy chọn hiển thị các sự kiện theo tháng, bổ sung các dịp lễ, kỷ niệm cho nhiều nước hơn.
+- Hỗ trợ người dùng khuyết tật: Thêm tùy chọn font chữ dày hơn (bold) cả trong bàn phím, máy tính và các biểu tượng ứng dụng. Tùy chọn giảm hiệu ứng chuyển động nay đã có cả trên ứng dụng Thời tiết, Tin nhắn và cả giao diện đa nhiệm. Bổ sung tùy chọn viền cho các phím lựa chọn (button shapes),...
+- iPhone 5s có thể tự động kích hoạt chế độ chụp HDR.
+- iCloud Keychain hỗ trợ thêm nhiều quốc gia.
+- Thông báo cuộc gọi nhỡ Facetime tự động được xóa khi người dùng bắt máy trên một thiết bị khác sử dụng chung tài khoản.
+- Cải thiện hiệu năng cho iPhone 4.
+- TouchID nhận diện hiệu quả hơn.
+- Sửa lỗi biểu tượng thông báo của ứng dụng Mail khi hiển thị số email lớn hơn 10.000.
+- Giao diện được cải thiện hơn trước.
+Ngay bây giờ, người dùng sử dụng iPod Touch thế hệ thứ 5, iPhone 4 và iPad 2 trở về sau đều có thể cập nhật lên iOS 7.1 qua giao thức OTA bằng cách vào ứng dụng Settings, chọn Software Update và làm theo hướng dẫn.

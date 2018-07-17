@@ -1,0 +1,1 @@
+Nếu như đang sử dụng một gói cước 3G có giới hạn dung lượng, hẳn bạn sẽ muốn tìm cách để lướt web trên điện thoại mà tốn ít dung lượng nhất. Bài viết dưới đây sẽ chỉ cho bạn cách giảm lượng dữ liệu khi duyệt web.

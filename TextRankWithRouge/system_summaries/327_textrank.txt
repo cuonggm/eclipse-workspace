@@ -1,0 +1,1 @@
+Ứng dụng này bao gồm một máy tính ngày mang bầu, lưu trữ hình ảnh siêu âm 2D và 3D và biểu đồ phát triển thai nhi ở mỗi tuần tuổi, thông tin thau nhi phát triển ra sao ở giai đoạn tham vấn, thông tin về việc chuẩn bị những gì cho em bé khi chào đời, chọn tên cho bé, theo dõi các buổi thăm khám, và một trang tự sự giúp bạn theo dõi tâm trạng, ghi chép và lưu giữ hình ảnh. 
