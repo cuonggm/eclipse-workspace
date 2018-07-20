@@ -1,1 +1,0 @@
-Trường hợp cụ thể của game Flappy Bird đã chứng minh được một điều rằng, trong thế giới phẳng ngày nay với sự trợ giúp của công nghệ thông tin và mạng xã hội, chúng ta có thể ở bất cứ một quốc gia nào, sử dụng bất kỳ ngôn ngữ nào thì đều có cơ hội ngang nhau khi đưa sản phẩm ra toàn cầu và biết sử dụng truyền thông xã hội với một chi phí không lớn. 

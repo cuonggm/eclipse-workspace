@@ -1,6 +1,0 @@
-VNPT Dr.Chặn sử dụng phương pháp lọc theo nội dung tin nhắn , người sử dụng có thể tự thiết lập các từ khóa và các từ khóa này sẽ được tự động chia sẻ cho những người dùng khác đang sử dụng VNPT Dr.Chặn.
-Tin nhắn rác, cuộc gọi lừa đảo nay đã có "khắc chế" là phần mềm VNPT Dr.Chặn
-Không chỉ lọc tin nhắn theo từ khóa, người dùng cũng có thể thiết lập việc lọc theo đầu số điện thoại khi dùng phần mềm này. Chức năng chặn cuộc gọi của VNPT Dr.Chặn có thể chặn các cuộc gọi điện qua vệ tinh (cả gọi đi và gọi đến) với hai danh sách: “Danh sách trắng” chứa các số điện thoại không chặn và “Danh sách đen” chứa các số điện thoại bị chặn và người dùng dễ dàng thiết lập các số điện thoại vào hai danh sách này.
-Ngoài ra, tất cả các tin nhắn và cuộc gọi bị chặn đều được lưu lại nên người dùng có thể xem lại, không lo bị mất.
-Thuê bao vào đây để tải về hoặc nhắn tin SMS theo cú pháp DrChan gửi 8083 để nhận.
-Thanh Trà

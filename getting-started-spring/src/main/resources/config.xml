@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+	<bean id="ProPlayer" class="com.cuong.beans.ProPlayer">
+		<constructor-arg ref="NormalMission"/>
+	</bean>
+	
+	<bean id="DangerMission" class="com.cuong.beans.DangerMission"></bean>
+	
+	<bean id="NormalMission" class="com.cuong.beans.NormalMission"></bean>
+	
+	<bean id="Logger" class="com.cuong.beans.Logger"></bean>
+	
+	<aop:config>
+		<aop:aspect ref="Logger">
+			<aop:pointcut expression="execution(* *.doMission(..))" id="mission"/>
+			<aop:before method="logBefore" pointcut-ref="mission"/>
+		</aop:aspect>
+	</aop:config>
+</beans>

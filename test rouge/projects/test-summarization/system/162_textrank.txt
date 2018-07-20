@@ -1,1 +1,0 @@
-- Hỗ trợ người dùng khuyết tật: Thêm tùy chọn font chữ dày hơn (bold) cả trong bàn phím, máy tính và các biểu tượng ứng dụng. 

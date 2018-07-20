@@ -9,4 +9,5 @@
 <item elementID="=template-hibernate-maven-project/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1531230609958_2" label="Window Working Set" name="Aggregate for window 1531230609958"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1531904951183_3" label="Window Working Set" name="Aggregate for window 1531904951183"/>
 </workingSetManager>
